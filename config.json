@@ -1,0 +1,14 @@
+{
+  "message_text": "Automated msg",
+  "media_path": "/Users/ram/Desktop/IMG_20250720_202825.jpg",
+  "default_country_code": "91",
+  "batch_limit": 5,
+  "sleep_min_seconds": 8,
+  "sleep_max_seconds": 16,
+  "long_pause_every": 30,
+  "long_pause_range_seconds": [
+    30,
+    60
+  ],
+  "dry_run": false
+}
